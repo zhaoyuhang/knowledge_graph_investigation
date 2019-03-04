@@ -12,7 +12,7 @@
 ## Links to products
 
  > [清华OPENKE知识表示工具](http://139.129.163.161/home)  
- > [微软 Microsoft Graph](https://developer.microsoft.com/en-us/graph)
+ > [微软 Microsoft Graph](https://developer.microsoft.com/en-us/graph)  
  > [百度知识图谱](https://knowledge.baidu.com/)  
  > [百度知识图谱开放平台（疑似无人维护）](https://kgopen.baidu.com/index)  
  > [复旦大学知识工厂](http://kw.fudan.edu.cn/)  
