@@ -3,8 +3,10 @@
 ## introductions
 
 ## Papers
+ >> [papers](./paper)
 
 ## Readings
+ >> [readings](./readings)
 
 ## Links to products
 
