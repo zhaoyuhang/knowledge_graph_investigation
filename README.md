@@ -5,6 +5,8 @@
 
 ## Papers
  > :scroll: [papers](./papers)
+ > :scroll: [papers on gnn](https://github.com/thunlp/GNNPapers)
+ 
 
 ## Readings
  > :closed_book: [readings](./readings)
