@@ -25,7 +25,8 @@
 ## Open Source Projects Demo
 
  > [Agriculture_KnowledgeGraph](https://github.com/qq547276542/Agriculture_KnowledgeGraph)  
- | 关键技术  | 说明| 源码索引 |
+ 
+| 关键技术  | 说明| 源码索引 |
 | :------------ |:---------------:| -----:|
 | 数据爬取 |爬虫爬取实体和关系   | `\MyCrawler` `\wikidataSpider` `\dfs_tree_crawler`|
 | 数据预处理 |本项目中做了简单的对齐       | `\wikidataSpider` |
